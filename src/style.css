@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas1{
+    position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#player{
+    display: none;
+}
+
+#world{
+    display: none;
+}
+
+#rotating-canvas{
+    display: none;
+}
+
+#temp-canvas{
+    display: none;;
+}
